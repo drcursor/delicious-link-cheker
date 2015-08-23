@@ -1,4 +1,4 @@
-# python-delicious-link-cheker
+# python-delicious-link-checker
 ## Description
 Iterates through your delicious.com bookmarks and outputs a textfile with the url followed by page title or status (domain for sale, parked domain, invalid url)
 
